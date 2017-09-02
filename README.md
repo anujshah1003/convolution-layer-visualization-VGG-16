@@ -27,6 +27,7 @@ whatever extension the load_model of keras reads:
       2.designer-qt4 (if you have anaconda installed you will by default have PyQt and designer-qt)
        The designer-qt can be found (path_to_anaconda\Library\bin\designer-qt4.exe)  
       3. Keras-1.2.2 
+      4. opencv 
      
       Note: You can use any backend - theano or tensorflow. for theano the input shape shoud be (1,3,224,224) 
       and for tensorflow the input shape should be (1,224,224,3)
